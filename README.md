@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 
 <br />
 
-![YirenZzz's github stats](https://github-readme-stats.vercel.app/api?username=yirenzzz&show_icons=true&theme=dracula&hide=stars,issues&hide_border=true)
+![YirenZzz's github stats](https://github-readme-stats.vercel.app/api?username=yirenzzz&show_icons=true&theme=dracula&hide=stars,issues&hide_border=true#gh-dark-mode-only)
+![YirenZzz's github stats](https://github-readme-stats.vercel.app/api?username=yirenzzz&show_icons=true&theme=buefy&hide=stars,issues&hide_border=true#gh-light-mode-only)
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yirenzzz&layout=compact&theme=dracula&hide_border=true"/>
+
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yirenzzz&layout=compact&theme=dracula) -->
 
