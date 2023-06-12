@@ -1,4 +1,4 @@
-## Hi I'm YirenZzz✨
+ ## Hi I'm YirenZzz✨
 
 <img height="40%" width="40%" align="left" src="https://github.com/YirenZzz/YirenZzz/blob/main/data/text_effect.gif" alt="Here is a little bit about me!">
 
@@ -30,6 +30,4 @@ Here are some ideas to get you started:
 
 
 
-<!-- 
-| <a href="https://github.com/yirenzzz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yirenzzz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="YirenZzz's github stats" /></a> | <a href="https://github.com/yirenzzz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yirenzzz&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- | -->
+
