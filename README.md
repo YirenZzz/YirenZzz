@@ -1,6 +1,7 @@
  ## Hi I'm YirenZzz✨
 
-<img height="40%" width="40%" align="left" src="https://github.com/YirenZzz/YirenZzz/blob/main/data/text_effect.gif" alt="Here is a little bit about me!">
+<img height="100%" width="35%" align="left" src="https://github.com/YirenZzz/YirenZzz/blob/main/data/text_effect.gif#gh-light-mode-only" alt="Here is a little bit about me!">
+<img height="100%" width="35%" align="left" src="https://github.com/YirenZzz/YirenZzz/blob/main/data/my_text_effect_courier.gif#gh-dark-mode-only" alt="Here is a little bit about me!">
 
 <!--
 **YirenZzz/YirenZzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
