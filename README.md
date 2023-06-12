@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- theme=dracula, buefy -->
+<!-- theme=dracula, buefy, date_night -->
 <!-- <p align="center"><a href="https://yirenzzz.github.io"><img width="80%" alt="Hello, I'm Yiren." /></a></p> -->
 
 <br />
 
-![YirenZzz's github stats](https://github-readme-stats.vercel.app/api?username=yirenzzz&show_icons=true&theme=dracula&hide=stars,issues&hide_border=true#gh-dark-mode-only)
-![YirenZzz's github stats](https://github-readme-stats.vercel.app/api?username=yirenzzz&show_icons=true&theme=buefy&hide=stars,issues&hide_border=true#gh-light-mode-only)
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yirenzzz&layout=compact&theme=dracula&hide_border=true"/>
+![YirenZzz's github stats](https://github-readme-stats.vercel.app/api?username=yirenzzz&show_icons=true&hide=stars,issues&hide_border=true&theme=date_night&bg_color=00000000)
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yirenzzz&layout=compact&theme=date_night&hide_border=true&bg_color=00000000"/>
 
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yirenzzz&layout=compact&theme=dracula) -->
