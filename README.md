@@ -1,4 +1,4 @@
- ## Hi I'm YirenZzz✨
+ ## Hi I'm Yiren✨
 <!--
 <img height="100%" width="35%" align="left" src="https://github.com/YirenZzz/YirenZzz/blob/main/data/my_text_effect_Helvetica_light.gif#gh-light-mode-only" alt="Here is a little bit about me!">
 <img height="100%" width="35%" align="left" src="https://github.com/YirenZzz/YirenZzz/blob/main/data/my_text_effect11_Helvetica_dark.gif#gh-dark-mode-only" alt="Here is a little bit about me!">
