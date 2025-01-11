@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 ![Yiren's github stats](https://github-readme-stats.vercel.app/api?username=yirenzzz&show_icons=true&hide=stars,issues&hide_border=true&theme=date_night&bg_color=00000000)
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yirenzzz&hide=html,jupyter%20notebook&layout=compact&theme=date_night&hide_border=true&bg_color=00000000"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yirenzzz&hide=html,javascript,jupyter%20notebook&layout=compact&theme=date_night&hide_border=true&bg_color=00000000"/>
 
 
 
